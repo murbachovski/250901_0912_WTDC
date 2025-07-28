@@ -107,7 +107,7 @@ Dashboard와의 연동, 시스템 테스트 및 디버깅
 
 13. CV2 With YOLO
 - Video
-~~- Rtsp => 🔔 네트워크 방화벽 이슈~~
+- Rtsp => 🔔 네트워크 방화벽 이슈
 - Https
 - Realtime
 
@@ -118,8 +118,8 @@ Dashboard와의 연동, 시스템 테스트 및 디버깅
 - Time
 
 15. Alarm
-~~ - Sound => 🔔 학원 PC 스피커 X ~~
-~~- Twilio => 🔔 버그 이슈~~
+- Sound => 🔔 학원 PC 스피커 X
+- Twilio => 🔔 버그 이슈
 
 16. YOLO 구현
 - 분류
