@@ -107,7 +107,7 @@ Dashboard와의 연동, 시스템 테스트 및 디버깅
 
 13. CV2 With YOLO
 - Video
-- Rtsp => 🔔 네트워크 방화벽 이슈
+- ❌ Rtsp => 🔔 네트워크 방화벽 이슈
 - Https
 - Realtime
 
@@ -118,8 +118,8 @@ Dashboard와의 연동, 시스템 테스트 및 디버깅
 - Time
 
 15. Alarm
-- Sound => 🔔 학원 PC 스피커 X
-- Twilio => 🔔 버그 이슈
+- ❌ Sound => 🔔 학원 PC 스피커 X
+- ❌ Twilio => 🔔 버그 이슈
 
 16. YOLO 구현
 - 분류
@@ -149,21 +149,21 @@ Dashboard와의 연동, 시스템 테스트 및 디버깅
     🚩 Parking_Get
     🚩 Parking_Inference
     🚩 Track_zone
-    🔔 Queue
+    ❌ Queue
 - Heatmap
 - Region_Image
 - Region_Video
     - Region_Get_Image
     - Region_Get_Video
 - Speed
-    🔔 학원 PC 하드웨어 이슈 (FPS 낮음)
+    ❌ 학원 PC 하드웨어 이슈 (FPS 낮음)
 
-17. Supervision
-    - speed_estimation
-    - time_in_zone
-    - traffic_analysis
+17. ❌ Supervision
+    - ❌ speed_estimation
+    - ❌ time_in_zone
+    - ❌ traffic_analysis
 
-18. Clip
+18. ❌ Clip
 
 19. Flask
 
@@ -176,8 +176,8 @@ Dashboard와의 연동, 시스템 테스트 및 디버깅
     🚩 주제 선정
     🚩 깃허브 main/develop branch 분할 생성
     🚩 팀장 선정
-    🚩 11일(금) 1차 발표
-    🚩 18일(금) 2차 발표
+    🚩 OO일() 1차 발표
+    🚩 OO일() 2차 발표
 ```
 
 ### API_KEY
