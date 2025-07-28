@@ -28,6 +28,20 @@
 ### 강의 목차(Beta)
 
 ```
+1. Anaconda 설치
+2. VSCode 설치
+3. 파이썬 기초
+4. Twilio
+5. YOLO 기초
+6. OpenCV2
+7. Data
+8. Get Local Data
+9. OpenAPI
+10. YOLO 심화
+11. Flask
+12. Dash
+13. Streamlit
+14. Plus
 ```
 
 ### API_KEY
