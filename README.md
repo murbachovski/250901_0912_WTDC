@@ -118,7 +118,7 @@ Dashboard와의 연동, 시스템 테스트 및 디버깅
 - Time
 
 15. Alarm
-~~- Sound => 🔔 학원 PC 스피커 X~~
+~~ - Sound => 🔔 학원 PC 스피커 X ~~
 ~~- Twilio => 🔔 버그 이슈~~
 
 16. YOLO 구현
