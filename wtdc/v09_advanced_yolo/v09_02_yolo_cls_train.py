@@ -1,0 +1,1 @@
+# https://docs.ultralytics.com/ko/datasets/classify/#dataset-structure-for-yolo-classification-tasks
