@@ -120,8 +120,8 @@ db5c00dc1fce45c49049bff225a0fea6
 ### Miro
 [Miro](https://miro.com/app/dashboard/)
 
-### 250904 공유 내용
-## requirements.txt 생성 라이브러리 piqres
+## 250904 공유 내용
+### requirements.txt 생성 라이브러리 piqres
 ```
 1. 기존 pip freeze 와 비교
 2. pip freeze > requirements.txt
@@ -129,7 +129,7 @@ db5c00dc1fce45c49049bff225a0fea6
 3-1. pipreqs .
 ```
 
-## ngrok 외부 호스팅
+### ngrok 외부 호스팅
 ```
 1. ngrok 설치 https://ngrok.com/downloads/windows?tab=download
 2. 실행 명령어 ngrok http 8051(자신의 포트번호)
@@ -140,5 +140,4 @@ db5c00dc1fce45c49049bff225a0fea6
 5. ngrok http 8080(자신의 포트번호) 외부 호스팅 2시간 무료
 ```
 
-## PPT 공유
-
+### PPT 공유
