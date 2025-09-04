@@ -106,7 +106,6 @@ v8_Web
 ```
 
 ### API_KEY
-
 ```
 db5c00dc1fce45c49049bff225a0fea6
 ```
@@ -117,4 +116,29 @@ db5c00dc1fce45c49049bff225a0fea6
 
 ### TensorRT 관련 Ultralytics 공식 문서 자료
 [Ultralytics TensorRT](https://docs.ultralytics.com/ko/integrations/tensorrt/)
+
+### Miro
+[Miro](https://miro.com/app/dashboard/)
+
+### 250904 공유 내용
+## requirements.txt 생성 라이브러리 piqres
+```
+1. 기존 pip freeze 와 비교
+2. pip freeze > requirements.txt
+3. pip install pipreqs
+3-1. pipreqs .
+```
+
+## ngrok 외부 호스팅
+```
+1. ngrok 설치 https://ngrok.com/downloads/windows?tab=download
+2. 실행 명령어 ngrok http 8051(자신의 포트번호)
+3. 회원 가입 후 키 발급 확인
+3-1. https://dashboard.ngrok.com/authtokens
+4. 키 인증
+4-1. ngrok config add-authtoken 32DAhV31Wq2vLJIr5WKWQ9vyN8v_2s9tVHTeD1WdCK23oVjFa
+5. ngrok http 8080(자신의 포트번호) 외부 호스팅 2시간 무료
+```
+
+## PPT 공유
 
