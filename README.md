@@ -141,3 +141,21 @@ db5c00dc1fce45c49049bff225a0fea6
 ```
 
 ### PPT 공유
+```
+노션 참고
+```
+
+### model.fuse
+[model.fuse](https://docs.ultralytics.com/reference/engine/model/#ultralytics.engine.model.Model.fuse)
+
+### YOLOE
+[YOLOE](https://docs.ultralytics.com/ko/models/yoloe/)
+
+### OpenVINO
+[OpenVINO](https://docs.ultralytics.com/ko/guides/optimizing-openvino-latency-vs-throughput-modes/)
+
+### Streamlit
+[Streamlit](https://docs.ultralytics.com/ko/guides/streamlit-live-inference/)
+
+### Training
+[Training](https://docs.ultralytics.com/yolov5/tutorials/tips_for_best_training_results/)
