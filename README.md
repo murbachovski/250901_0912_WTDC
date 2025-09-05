@@ -148,8 +148,12 @@ db5c00dc1fce45c49049bff225a0fea6
 ### model.fuse
 [model.fuse](https://docs.ultralytics.com/reference/engine/model/#ultralytics.engine.model.Model.fuse)
 
+--
+
 ### YOLOE
 [YOLOE](https://docs.ultralytics.com/ko/models/yoloe/)
+
+--
 
 ### OpenVINO
 [OpenVINO](https://docs.ultralytics.com/ko/guides/optimizing-openvino-latency-vs-throughput-modes/)
