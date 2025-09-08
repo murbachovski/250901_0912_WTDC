@@ -6,7 +6,7 @@ cap = cv2.VideoCapture("http://210.99.70.120:1935/live/cctv032.stream/playlist.m
 
 # 2. 객체 생성
 cropper = solutions.ObjectCropper(
-    model="yolo11n.pt",
+    model="yolo11n-seg.pt",
     show=False,
     conf=0.7,
     classes=[0, 2]
