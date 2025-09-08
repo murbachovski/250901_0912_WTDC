@@ -58,51 +58,66 @@ Dashboard와의 연동, 시스템 테스트 및 디버깅
 
 ```
 v0_Install anaconda/
-→ Anaconda 설치 및 환경 설정 관련 파일
+→ Anaconda 설치 및 환경 설정
 
 v1_Install vscode/
-→ VS Code 설치 및 개발 환경 구성 안내
+→ VS Code 설치 및 개발 환경 구성
 
 v2_Basic python/
-→ Python 기초 문법 및 실습 코드
+→ Python 기초 문법 및 실습
 
 v3_Yolo 기초/
-→ YOLO 객체 탐지 모델 구성 및 이미지/영상 실습
+→ YOLO 객체 탐지 모델 추론 및 활용
 
 v4_TWilio/
 → Twilio API를 활용한 문자(SMS) 알림 기능 구현
 
 v5_OpenCV2/
-→ OpenCV를 이용한 이미지/영상 처리 및 전처리 실습
+→ OpenCV를 이용한 이미지 처리 실습
 
 v6_Data
 │
 ├── v6_1_Data/
-│   → 공공데이터 포털 활용 및 교통/환경 데이터 수집
+│ → 공공데이터 포털 활용 및 교통/환경 데이터 수집
 │
 ├── v6_2_Get Local Data/
-│   → 지역 CCTV 영상 수집 및 자동 이미지 저장 기능 구현
+│ → Local 이미지 수집 및 자동 이미지 저장 기능 구현
 │
 └── v6_3_OpenAPI/
-    → 공공기관(OpenAPI) 연계 실시간 정보 수집 및 파싱
+     → 공공기관(OpenAPI) 연계 실시간 정보 수집
 
 v7_YOLO 심화/
 → Solution 탐색
+├── classify
+├── train classify
+├── detect
+├── params
+├── alarm
+├── distance
+├── sahi
+├── heatmap
+├── region
+├── get region
+├── speed
+├── blurr
+├── crop
+├── in and out
+├── line
+├── YOLOE
+├── multi thread
+├── model.fuse()
+├── Streamlit YOLO
+└── OpenVINO int8
 
 v8_Web
-│
-├── v8_1_Flask/
-│   → Flask 웹서버에서 YOLO 탐지 결과를 영상 스트리밍으로 출력
-│
-├── v8_2_Dash/
-│   → Dash 프레임워크 기반 실시간 객체 탐지 + 그래프 대시보드 구현
-│
 ├── v8_3_Streamlit/
-│   → Streamlit을 활용한 YOLO 객체 탐지 실시간 시각화 대시보드 구현
+│ → Streamlit을 활용한 YOLO 객체 탐지 실시간 시각화 대시보드 구현
 │
 └── v8_4_Plus/
     → HuggingFace
-
+    → ngrok
+    → pip free > requirements.txt
+    → pip install pipreqs
 ```
 
 ### API_KEY
