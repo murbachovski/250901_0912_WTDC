@@ -110,7 +110,7 @@ v7_YOLO 심화/
 └── OpenVINO int8
 
 v8_Web
-├── v8_3_Streamlit/
+└── v8_3_Streamlit/
      → Streamlit을 활용한 YOLO 객체 탐지 실시간 시각화 대시보드 구현
 
 v8_4_Plus/
